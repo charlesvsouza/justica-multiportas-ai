@@ -1,0 +1,9 @@
+{
+  "version": "2.0.0",
+  "download_url": "https://github.com/charlesvsouza/justica-multiportas-ai/releases/latest/download/justicamultiportasrj-ai.zip",
+  "sections": {
+    "description": "Versão inicial estável com layout responsivo, leitura TTS e suporte ao Gemini Flash EXP.",
+    "changelog": "🚀 Nova interface • 🔊 TTS melhorado • 💬 Memória local persistente"
+  }
+}
+
